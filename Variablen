@@ -1,0 +1,18 @@
+main(){
+int a = 1;
+int b = 5;
+double a1 = 1.5;
+double b1 = 5.4;
+String name = "Luis";
+String nachname = "Höller";
+bool wahr = true;
+
+  
+print(a);
+print(b);
+print(a1);
+print(b1);
+print(name);
+print(nachname);
+print(wahr);
+}
