@@ -1,0 +1,7 @@
+main(){
+int limit = 10;
+
+for(int i = 3; i<limit; i++){
+print("$i");}
+  
+}
