@@ -1,0 +1,16 @@
+main(){
+int zahl = 5;
+
+zahl*=3;
+print(zahl);
+  
+int ergebnis = zahl + 2;
+print(ergebnis);
+  
+int ergebnis2 = zahl - 5; 
+print (ergebnis2);
+  
+zahl++;
+print (zahl);
+  
+}
