@@ -1,0 +1,11 @@
+main(){
+String meinName = "Luis";
+print("Ich heiße $meinName");
+
+double ab = 1.5;
+String abstring = ab.toString();
+print(abstring);
+
+int Namenslaenge = meinName.length;
+print("Die Länge meines Namens beträgt $Namenslaenge Buchstaben");
+}
