@@ -1,7 +1,7 @@
 main(){
-int zahl = 11;
+int zahlengrenze = 11;
 
-if(zahl<10){
+if(zahlengrenze<10){
   print("11 ist kleiner als 10");
 }else{
   print("11 ist größer als 10");}
