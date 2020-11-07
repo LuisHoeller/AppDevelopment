@@ -1,0 +1,16 @@
+void main(){
+Essen bonbons = Essen("sueß",5); 
+ bonbons.zeigeEigenschaften();
+}
+  class Essen{
+  String geschmack;
+  int menge;
+  
+Essen(String geschmack, int menge){
+this.geschmack = geschmack;
+this.menge = menge;
+}
+void zeigeEigenschaften(){
+  print(this.geschmack);
+  print(this.menge);}
+}
